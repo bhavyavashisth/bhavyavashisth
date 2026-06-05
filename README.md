@@ -1,25 +1,64 @@
-# 👋 About Me:
-Hi, I’m Bhavya Sharma — a student exploring the world of ethical hacking and web penetration testing.
-I work primarily on Kali Linux and focus on understanding how systems break before learning how to secure them. My approach is hands-on: learn the fundamentals, break things in controlled environments, then understand why they broke.
+<div align="center">
+  <h1>Bhavya Sharma</h1>
+  <p>Security enthusiast · Web penetration testing · Kali Linux</p>
 
-
-
-##  Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhavayx)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavayavashisth@gmail.com) 
-
-# What I Know:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhavyavashisth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhavyavashisth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyavashisth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhavyavashisth&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyavashisth)
+  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/bhavyavashisth)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/WBhavya/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhavayayashisth@gmail.com)
+  ![Location](https://img.shields.io/badge/Jaipur,_India-grey?style=flat)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhavyavashisth&icon=0&color=0)](https://visitcount.itsvg.in)
+
+I'm a student focused on ethical hacking and web penetration testing. I work primarily on Kali Linux, taking a hands-on approach — learn the fundamentals, break things in controlled environments, understand why they broke.
+
+---
+
+### Technical Arsenal
+
+**Security**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
+
+**Languages & scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & version control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyavashisth&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&rank_icon=github&cache_seconds=86400" height="155" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=bhavyavashisth&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" height="155" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyavashisth&theme=minimal&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+### LeetCode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/WBhavya?theme=light&font=Nunito&ext=heatmap&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <sub>bhavayayashisth@gmail.com · Jaipur, India · <a href="https://linkedin.com/in/bhavyavashisth">LinkedIn</a></sub>
+</div>
