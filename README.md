@@ -79,44 +79,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhavyavashisth&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyavashisth&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=ffffff" height="180"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhavyavashisth&theme=terminal&background=0D1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=39d353&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhavyavashisth&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/bhavyavashisth/bhavyavashisth/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bhavyavashisth&color=00ff41&style=flat&label=visitors"/>
 </div>
