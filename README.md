@@ -19,14 +19,6 @@
 └─$ whoami
 ```
 
-```
-> Backend Developer & Cybersecurity Enthusiast
-> Building secure systems from the ground up
-> Open source contributor | CTF player
-> Location: India
-> Portfolio: https://bhavyasharmaportfolio.vercel.app
-```
-
 ---
 
 ## ⚡ Tech Stack
@@ -39,20 +31,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🛡️ Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-
 </div>
 
 ---
@@ -61,7 +39,7 @@
 
 > From my playlist
 
-🎼 are in the pool — Kensuke Ushio
+🎼 In the pool — Kensuke Ushio
 
 🌸 Bags — Clairo
 
@@ -69,15 +47,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![Metrics](./metrics.svg)
-
-</div>
-
----
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=bhavyavashisth&color=00ff41&style=flat&label=visitors"/>
